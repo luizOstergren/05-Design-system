@@ -1,0 +1,10 @@
+{
+    "extends": "@ignite-ui/eslint-config"
+    // "prettier/prettier": [
+    //     "error",
+    //     {
+    //         "singleQuote": true,
+    //         "parser": "flow"
+    //     }
+    // ]
+}
