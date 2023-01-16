@@ -17,6 +17,10 @@ jobs:
         with:
           node-version: 16
 
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: cargo-hack
+
       - run: npm ci
 
       - run: npm run build
