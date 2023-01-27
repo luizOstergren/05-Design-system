@@ -1,0 +1,2 @@
+import{T as o}from"./index.44e012db.js";import"./index.5205fc22.js";import"./iframe.88c7e1ab.js";import"./index.00c91748.js";import"./jsx-runtime.18818bca.js";const c={title:"Typography/Text",component:o,args:{children:"loremcvxcvxcvxcxcjvxjcv oxcmioxczoxc z o sana aosnodasdnosndoasndion n ndsaond"}},e={},m={args:{children:"Strong text",as:"strong"}},x=["Primary","CustomTag"];export{m as CustomTag,e as Primary,x as __namedExportsOrder,c as default};
+//# sourceMappingURL=Text.stories.e36745c1.js.map
